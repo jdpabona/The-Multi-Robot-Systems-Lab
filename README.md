@@ -1,0 +1,2 @@
+# The-Multi-Robot-Systems-Lab
+This repository contains all developed scripts for the construction of the Multi-Robot System Lab. This laboratory implements a vision system based on ArUco makers that sends information to mobile robots through a wireless communication system. Depending on the application, the laboratory can operate in centralized or distributed ways. When users are working in a centralized way, the laboratory can execute tests automatically. It allows executing up to 200 tests in one day.
